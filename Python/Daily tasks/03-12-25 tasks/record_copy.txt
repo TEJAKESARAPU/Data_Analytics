@@ -1,0 +1,13 @@
+Name: Teja
+City: Visakhapatnam
+Course: Mechanical Engineering
+College: Raghu Engineering College
+City: Visakhapatnam
+Course: Mechanical Engineering
+This is my record
+Name: Teja
+City: Visakhapatnam
+Course: Mechanical Engineering
+College: Raghu Engineering College
+City: Visakhapatnam
+Course: Mechanical Engineering

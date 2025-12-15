@@ -1,0 +1,11 @@
+Name: Teja
+Age: 24
+Course: Data Analytics
+Grade: A
+City: Visakhapatnam
+This is the student record
+Name: Teja
+Age: 24
+Course: Data Analytics
+Grade: A
+City: Visakhapatnam
