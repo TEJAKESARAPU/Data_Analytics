@@ -27,3 +27,5 @@ select name from train where Age between 20 and 40;
 -- Q9. Find all passengers who had more than 20 siblings/spouses aboard and paid less than 20 fare.
 select name from train where SibSp > 20 and Fare < 20;
 
+-- Q10. List passengers who survived AND were 1st class AND paid a fare greater than or equal to 100.
+select name from train where Survived = 1 and Pclass = 1 and Fare >= 100;
