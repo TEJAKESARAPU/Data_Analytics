@@ -350,7 +350,7 @@ Join students s ON e.StudentID = s.StudentID
 JOIN courses c ON e.CourseID = c.CourseID
 order by s.StudentName;
 
--- joins
+-- SQL joins
 
 create table stu(sid int primary key, sname varchar(20));
 insert into stu values (1, 'Alice'), (2, 'Bob'), (3, 'Charlie'), (4, 'David');
