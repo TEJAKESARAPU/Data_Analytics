@@ -3,6 +3,7 @@ Create table employees (id int,
                         department varchar(20), 
                         age int, 
                         salary decimal(8,2));
+
                         
 INSERT INTO employees (id, name, department, age, salary) VALUES
 (1, 'Alice', 'HR', 28, 45000.00),
